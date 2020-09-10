@@ -18,7 +18,7 @@ Encouraging mingling required us to be clever. In the previous year's app (where
 
 For Galaxy Trek, I decided to create a format that could be applied to all future events (because "contact tracing" was logic specific to the "pandemic" theme). The goal was to provide low-pressure icebreakers for teams to interact with each other, so we created a set of icebreaker questions about all of the schools involved in the event, which ideally could only be answered by a team that went to that school. An example of this is a question encouraging teams to talk to the engineers representing Stryker, the corporate sponsor:
 
-<b>Starter<b>	<i>Where is Stryker's corporate HQ located? (Don't know? Find someone from Stryker and ask!)</i>
+<b>Starter</b>	<i>Where is Stryker's corporate HQ located? (Don't know? Find someone from Stryker and ask!)</i>
 - Kalamazoo, Michigan	
 - Altoona, Pennsylvania	
 - Milwaukee, Wisconsin	
