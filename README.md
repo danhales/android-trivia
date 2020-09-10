@@ -7,6 +7,8 @@ At the STEM Challenge, 20 teams of girls from local middle and high schools comp
 
 In order to display the real meat of my programming work, I've uploaded the program files as `Raffle.zip` and moved the primary java files into the top-level directory for easy access. These are `Category.java`, `Question.java`, `TriviaEngine.java`, and `TriviaActivity.java`. I've also provided some samples to show the formatting of `pins.tsv` and `questions.tsv` in order to show what type of data the app reads in.
 
+A short demo video showing the app in action is available <a href="https://drive.google.com/file/d/1p0xWmRSdU9tHev4wfIpXNrB1oZtcSArx/view?usp=sharing">here</a>. The goal was to make the experience self-explanatory and smooth for competitors, so that should be reflected in the app.
+
 ## Goals
 
 The app is designed to accomplish a handful of tasks:
