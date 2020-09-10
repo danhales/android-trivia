@@ -42,10 +42,10 @@ public class TriviaActivity extends AppCompatActivity {
     private final String KEY_PIN = "org.foxcroft.stem.raffle.PIN";
     private final String KEY_TICKETS_REDEEMED = "org.foxcroft.stem.raffle.TICKETS_REDEEMED";
     private final String KEY_CURRENT_QUESTION = "org.foxcroft.stem.raffle.CURRENT_QUESTION";
-    private final String MATH_LOGIN = "151350";
-    private final String SCIENCE_LOGIN = "151360";
-    private final String ADDRESS_LOGIN = "22407";
-    private final String DATE_LOGIN = "1914";
+    private final String MATH_LOGIN = "123456";
+    private final String SCIENCE_LOGIN = "654321";
+    private final String ADDRESS_LOGIN = "00000";
+    private final String DATE_LOGIN = "2020";
     private final String NOT_LOGGED_IN = "No team is logged in at this time.";
     private final String ANSWERED_ALL_AVAILABLE_QUESTIONS = "You've answered all available trivia questions! A new category has been unlocked: ";
     public static final String MORNING_TEAM = "morning team";
