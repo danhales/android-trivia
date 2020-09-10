@@ -3,6 +3,10 @@ This app consists of a multiple-choice trivia game for raffle tickets deployed o
 
 At the STEM Challenge, 20 teams of girls from local middle and high schools compete for prizes (and glory) in STEM events designed to test their wits. Alongside the main events, each team has a Kindle fire with around 100 trivia questions designed to test their <i>knowledge.</i>
 
+## What's in this repo?
+
+In order to display the real meat of my programming work, I've uploaded the program files as `Raffle.zip` and moved the primary java files into the top-level directory for easy access. These are `Category.java`, `Question.java`, `TriviaEngine.java`, and `TriviaActivity.java`. I've also provided some samples to show the formatting of `pins.tsv` and `questions.tsv` in order to show what type of data the app reads in.
+
 ## Goals
 
 The app is designed to accomplish a handful of tasks:
@@ -82,6 +86,8 @@ As I was teaching AP Computer Science A (OOP in Java) while developing this app,
 Although I am no longer teaching at Foxcroft, I've made this app customizable for my department to use in future years. All that needs to be done is updating the spreadsheets (`pins` with team names, and the `question` spreadsheets with morning and afternoon questions), rebuilding the app, and reinstalling on devices.
 
 Admittedly, this is not the most convenient way to go about this. I would love to implement functionality that links the app up with a Google account, so spreadsheets can be directly configured in the already-installed app, rather than by modifying the package itself.
+
+I also would have loved to have implemented network functionality for scoring (such as communicating scores directly to the faculty member in charge of the raffle table), and potentially eliminated the need for physical tickets altogether by allowing individual team members to select their prizes in-app. But paper tickets are fun!
 
 That said, I've kept as much of the app as generic as possible, so it can be used for a variety of purposes. For instance, it could be used as a review activity before a test in class, as long as the students are provided with a log-in PIN and the questions are uploaded. As it stands, it is not possible for users on separate devices to create collisions with the same PIN, but having separate PINs for each student would be nice.
 
