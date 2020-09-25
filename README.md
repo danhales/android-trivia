@@ -71,7 +71,7 @@ New categories unlock either when a question from the Starter category is unlock
 
 When all questions have been answered, a message is displayed telling the team to redeem their raffle tickets at the raffle table.
 
-## Data Structures
+## Classes Involved
 
 As I was teaching AP Computer Science A (OOP in Java) while developing this app, I made design choices that allowed me to reuse code in class (i.e. limiting myself to the APCSA subset of Java). I aimed to keep the code organized, documented, and relatively simple.
 
